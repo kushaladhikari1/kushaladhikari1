@@ -8,9 +8,28 @@ I work at the intersection of **Machine Learning** and **Embedded Systems** — 
 
 ### 🛠️ Tech Stack
 
+### 🛠️ Tech Stack
+
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,linux,git,arduino,tensorflow,numpy,pandas,c" alt="skills" />  <br>
-  <img src="https://img.shields.io/badge/-espressif-000000?style=flat-square&logo=espressif&logoColor=E7352C" alt="ESP32" height="48" width="48"/>
+  <img src="https://skillicons.dev/icons?i=py,c" alt="languages" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="frameworks" />
+  <img src="https://img.shields.io/badge/-%20-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" height="48"/>
+  <img src="https://img.shields.io/badge/-%20-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="48"/>
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,linux" alt="tools" />
+</p>
+
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino" alt="hardware" />
+  <img src="https://img.shields.io/badge/-%20-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" height="48"/>
+  <img src="https://img.shields.io/badge/-%20-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" height="48"/>
 </p>
 
 ---
@@ -27,7 +46,7 @@ I work at the intersection of **Machine Learning** and **Embedded Systems** — 
 
 ### 📫 Contact
 
-- ✉️ Email: [kushalrajadhikari1@gmail.com](mailto:kushalrajadhikari@gmail.com)
+- ✉️ Email: [kushalrajadhikari@gmail.com](mailto:kushalrajadhikari@gmail.com)
 
 ---
 

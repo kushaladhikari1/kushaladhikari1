@@ -9,7 +9,7 @@ I work at the intersection of **Machine Learning** and **Embedded Systems** — 
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,linux,git,arduino,tensorflow,numpy,pandas,c" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=py,linux,git,arduino,tensorflow,numpy,pandas,c" alt="skills" />  <br>
   <img src="https://img.shields.io/badge/-espressif-000000?style=flat-square&logo=espressif&logoColor=E7352C" alt="ESP32" height="48" width="48"/>
 </p>
 

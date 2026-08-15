@@ -1,4 +1,4 @@
-# Hi, I'm Kushal Raj Adhikari 👋
+# Hi, I'm Kushal Adhikari 👋
 
 ## 🚀 ML / Embedded Systems Engineer
 
@@ -8,12 +8,11 @@ I work at the intersection of **Machine Learning** and **Embedded Systems** — 
 
 ### 🛠️ Tech Stack
 
-**Languages**
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,c" alt="languages" height="56"/>
 </p>
 
-**Frameworks & Libraries**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" height="56"/>
   <img src="numpy.svg" alt="NumPy" height="56"/>
@@ -25,7 +24,6 @@ I work at the intersection of **Machine Learning** and **Embedded Systems** — 
   <img src="https://skillicons.dev/icons?i=git,linux" alt="tools" height="56"/>
 </p>
 
-**Hardware**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" height="56"/>
   <img src="esp32.svg" alt="ESP32" height="56"/>

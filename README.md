@@ -2,7 +2,7 @@
 
 
 <h2 align="center"> Developer | ML | Embedded Systems & IOT </h1>
----
+
 
 ### About Me
 - Currently working in ML models for agricultural research

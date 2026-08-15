@@ -19,22 +19,18 @@ I work at the intersection of **Machine Learning** and **Embedded Systems** — 
   <img src="pandas.svg" alt="Pandas" height="56"/>
 </p>
 
-**Tools**
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,linux" alt="tools" height="56"/>
 </p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" height="56"/>
-  <img src="esp32.svg" alt="ESP32" height="56"/>
-  <img src="stm32.svg" alt="STM32" height="56"/>
-</p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="arduino, raspberrypi" height="56"/> <img src="esp32.svg" alt="ESP32" height="56"/> <img src="stm32.svg" alt="STM32" height="56"/> </p>
 
 ---
 
 ### 🎯 What I Do
 
-- Design and prototype embedded systems using Arduino and ESP32
+- Design and prototype embedded systems using Arduino, STM ESP32
 - Build, train, and evaluate ML models with TensorFlow, NumPy, and Pandas
 - Optimize and deploy ML models on resource-constrained embedded hardware
 - Write low-level firmware in Embedded C for real-time performance

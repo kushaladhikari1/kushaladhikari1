@@ -16,8 +16,8 @@ I work at the intersection of **Machine Learning** and **Embedded Systems** — 
 **Frameworks & Libraries**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" height="56"/>
-  <img src="icons/numpy.svg" alt="NumPy" height="56"/>
-  <img src="icons/pandas.svg" alt="Pandas" height="56"/>
+  <img src="numpy.svg" alt="NumPy" height="56"/>
+  <img src="pandas.svg" alt="Pandas" height="56"/>
 </p>
 
 **Tools**
@@ -28,8 +28,8 @@ I work at the intersection of **Machine Learning** and **Embedded Systems** — 
 **Hardware**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" height="56"/>
-  <img src="icons/esp32.svg" alt="ESP32" height="56"/>
-  <img src="icons/stm32.svg" alt="STM32" height="56"/>
+  <img src="esp32.svg" alt="ESP32" height="56"/>
+  <img src="stm32.svg" alt="STM32" height="56"/>
 </p>
 
 ---
